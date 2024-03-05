@@ -15,7 +15,7 @@ A project aimed at creating a caching mechanism for improved data retrieval perf
 - **Technologies**: Javascript, css and html5
 - **Repository**: [Cache Bank Project](https://github.com/LebogangMputle/LEBMPU495_BCL2401_GroupD_Lebogang-Mputle_SDF11.git)
 - **Repository**: [E-commerce](https://github.com/LebogangMputle/E-commerce.git)
-- **Repository**: [Blog](https://github.com/LebogangMputle/E-commerce.git](https://github.com/LebogangMputle/blog.git)
+- **Repository**: [Blog](https://github.com/LebogangMputle/blog.git)
 
 ### Instagram Page and Blog
 Created and managed an Instagram page and blog focused on my personal profile and the books we've read.
