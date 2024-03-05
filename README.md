@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello, I'm Lebogang Mputle 👋
 
-<!--
-**LebogangMputle/LebogangMputle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+I am currently a full-stack developer student with a background in electrical engineering and experience as a teacher assistant. I am highly motivated, punctual, and enthusiastic about learning new technologies and skills.
 
-Here are some ideas to get you started:
+## Skills and Technologies
+- 💻 Full-stack development
+- ⚡️ Electrical engineering
+- 📚 Teaching and education
+- 🧠 Fast learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### Cache Bank Project
+A project aimed at creating a caching mechanism for improved data retrieval performance.
+- **Technologies**: Javascript, css and html5
+- **Repository**: [Cache Bank Project](https://github.com/LebogangMputle/LEBMPU495_BCL2401_GroupD_Lebogang-Mputle_SDF11.git)
+- **Repository**: [E-commerce](https://github.com/LebogangMputle/E-commerce.git)
+- **Repository**: [Blog](https://github.com/LebogangMputle/E-commerce.git](https://github.com/LebogangMputle/blog.git)
+
+### Instagram Page and Blog
+Created and managed an Instagram page and blog focused on my personal profile and the books we've read.
+- **Technologies**: Social media management tools, Content creation.
+
+## Social Links
+- [LinkedIn](www.linkedin.com/in/
+lebogang-mputle-b00380175
+)
+
+## Contact Information
+For inquiries or collaboration opportunities, feel free to reach out to me at: lebozikalala@gmail.com
+
